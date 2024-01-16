@@ -13,6 +13,7 @@ This project aims to provide insights into key loan-related metrics and their ch
 
 ### Bank Loan Report - Summary 
 
-![Bank Loan Report - Summary](https://github.com/Akshay-Angadi/Bank-Loans-Analysis-With-SQL/assets/112554296/2fc105e2-aca5-41a1-b5a1-ea4f64fd9a66)
+![image](https://github.com/Akshay-Angadi/Bank-Loans-Analysis-With-SQL/assets/112554296/596dbebb-ee70-4cc4-9fcf-2b09e69cab8d)
+
 
 
